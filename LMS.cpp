@@ -12,7 +12,7 @@ class Lib
        int q,B,p;
        Lib()
        {
-           strcpy(bookname,"NO Book Nme");
+           strcpy(bookname,"NO Book Name");
            strcpy(auname,"No Author Name");
            strcpy(sc,"No Book ID");
            strcpy(sc1,"No Book ID");
